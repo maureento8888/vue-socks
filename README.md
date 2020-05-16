@@ -1,4 +1,5 @@
-# Vue Socks project: Vue Mastery's Introduction to Vue Course
+# Vue Socks project
+Vue Mastery's Introduction to Vue Course
 
 This is a tutorai project from Vue Mastery. It goes over the basics of creating your first Vue.js application, covering topics such as the Vue Instance, Vue syntax, data binding, templating, methods vs. computed properties, directives, EventBus, and so on. You check out the lesson (here) [https://www.vuemastery.com/courses/intro-to-vue-js/tabs].
 
