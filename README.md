@@ -1,7 +1,9 @@
 # Vue Socks project
 Vue Mastery's Introduction to Vue Course
 
-This is a tutorai project from Vue Mastery. It goes over the basics of creating your first Vue.js application, covering topics such as the Vue Instance, Vue syntax, data binding, templating, methods vs. computed properties, directives, EventBus, and so on. You check out the lesson [here] (https://www.vuemastery.com/courses/intro-to-vue-js/tabs).
+This is a tutorial project from Vue Mastery. It goes over the basics of creating your first Vue.js application, covering topics such as the Vue Instance, Vue syntax, data binding, templating, methods vs. computed properties, directives, EventBus, and so on. You check out the lesson [here] (https://www.vuemastery.com/courses/intro-to-vue-js/tabs).
+
+- <strong>NOTE:</strong> This project was built using Vue.js 2! See the [vuejs/vue-next](https://github.com/vuejs/vue-next) for (beta) documentation into Vue 3 changes!
 
 ![Vue.js blue and green socks with Vue logo marked on shaft](./assets/project-photo.png)
 
