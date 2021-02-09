@@ -15,7 +15,7 @@ For documentation, visit https://v3.vuejs.org/
 
 ## Getting Started
 
-I've used a Vue CDN from [unpkg] (https://unpkg.com/vue) in this project. In your own projects, you may choose to use [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.js), but it may take time to sync and load. For your own learning and/or development purposes you may use either CDN.
+I've used a Vue CDN from [unpkg](https://unpkg.com/vue) in this project. In your own projects, you may choose to use [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.js), but it may take time to sync and load. For your own learning and/or development purposes you may use either CDN.
 
 For learning/development:
 - `<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>` with cdnjs
