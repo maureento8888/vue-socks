@@ -1,9 +1,9 @@
 # Vue Socks project
 Vue Mastery's Introduction to Vue Course
 
-This is a tutorial project from Vue Mastery. It goes over the basics of creating your first Vue.js application, covering topics such as the Vue Instance, Vue syntax, data binding, templating, methods vs. computed properties, directives, EventBus, and so on. You check out the lesson [here] (https://www.vuemastery.com/courses/intro-to-vue-js/tabs).
+This is a tutorial project from Vue Mastery. It goes over the basics of creating your first Vue.js application, covering topics such as the Vue Instance, Vue syntax, data binding, templating, methods vs. computed properties, directives, EventBus, and so on. You check out the lesson [here](https://www.vuemastery.com/courses/intro-to-vue-js/tabs).
 
-- <strong>NOTE:</strong> This project was built using Vue.js 2! See the [vuejs/vue-next](https://github.com/vuejs/vue-next) for (beta) documentation into Vue 3 changes!
+- <strong>NOTE:</strong> This project was built using Vue.js 2! See the [Vue 3 docs](https://v3.vuejs.org/)
 
 ![Vue.js blue and green socks with Vue logo marked on shaft](./assets/project-photo.png)
 
@@ -11,11 +11,11 @@ This is a tutorial project from Vue Mastery. It goes over the basics of creating
 - Vue.js of course 😉
 - Vue CDN from [unpkg](https://unpkg.com/vue)
 
-For more info and documentation, visit https://vuejs.org
+For documentation, visit https://v3.vuejs.org/
 
 ## Getting Started
 
-I've used a Vue CDN from [unpkg] (https://unpkg.com/vue) in this project. In your own projects, you may choose to use [cdnjs] (https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.js), but it may take time to sync and load. For your own learning and/or development purposes you may use either CDN.
+I've used a Vue CDN from [unpkg] (https://unpkg.com/vue) in this project. In your own projects, you may choose to use [cdnjs](https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.js), but it may take time to sync and load. For your own learning and/or development purposes you may use either CDN.
 
 For learning/development:
 - `<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>` with cdnjs
@@ -24,7 +24,7 @@ For learning/development:
 For production purposes, it is recommended by Vue.js to specify a version number to prevent breakages:
 - `<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>`
 
-For more detailed info on installation, see Vue.js [installation docs] (https://vuejs.org/v2/guide/installation.html)
+For more detailed info on installation, see Vue.js [installation docs](https://v3.vuejs.org/guide/installation.html)
 
 
 ## In general, if you're using Vue CLI (you should have npm installaed):
